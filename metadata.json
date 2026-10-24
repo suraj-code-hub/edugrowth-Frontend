@@ -1,0 +1,6 @@
+{
+  "name": "EduGrowth Platform",
+  "description": "Comprehensive Education, Projects, Mentorship, Internship, Jobs and Career Development Platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
